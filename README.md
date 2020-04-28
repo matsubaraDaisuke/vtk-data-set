@@ -4,7 +4,7 @@
 
 # 環境構築
 
-``` python 
+``` terminal:terminal 
 $ pip install vtk
 ```
 
