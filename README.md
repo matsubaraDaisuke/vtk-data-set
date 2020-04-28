@@ -1,5 +1,13 @@
 # my vtk(Python)記事のまとめ
 
+
+
+# 環境構築
+
+``` python 
+$ pip install vtk
+```
+
 # reader
 - [OpenFOAMReader](https://qiita.com/matsubaradaisuke/items/2035a779ffc383820ad3) :OpenFOAM形式の読み込み
 - [vtkXMLUnstructuredGridReader](https://qiita.com/matsubaradaisuke/items/0876c9c3225e520a8f38):vtu形式の読み込み
