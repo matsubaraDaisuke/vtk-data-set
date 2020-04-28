@@ -6,3 +6,8 @@
 
 # filter
 - [vtkThreshold](https://qiita.com/matsubaradaisuke/items/c29be9bdd115bc4d144f):指定した範囲内の値を含む要素のみ抽出するフィルター
+
+# writer
+- [vtkSTLWriter](https://qiita.com/matsubaradaisuke/items/91518c9c86dc6f42c47c):stlの出力
+- [vtkPolyDataWriter](https://qiita.com/matsubaradaisuke/items/91518c9c86dc6f42c47c):vtkの出力
+- [vtkPLYWriter](https://qiita.com/matsubaradaisuke/items/91518c9c86dc6f42c47c):plyの出力
