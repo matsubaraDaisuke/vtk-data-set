@@ -14,6 +14,7 @@ $ pip install vtk
 
 # filter
 - [vtkThreshold](https://qiita.com/matsubaradaisuke/items/c29be9bdd115bc4d144f):指定した範囲内の値を含む要素のみ抽出するフィルター
+- [vtkClip*](https://qiita.com/matsubaradaisuke/items/7f4d1ac5aa3fc0e13fa1):ソース形状を元に表示領域を変更するフィルター
 
 # writer
 - [vtkSTLWriter](https://qiita.com/matsubaradaisuke/items/91518c9c86dc6f42c47c):stlの出力
